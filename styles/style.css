@@ -829,6 +829,7 @@ body {
   justify-content: center;
   background-color: #ff0000;
   border-radius: 0 5rem 5rem 0;
+  border: none;
   flex-shrink: 0;
 }
 
